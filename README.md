@@ -20,11 +20,11 @@ Banco de dados no arquivo **db.php**.
 
 	$connection 		= 	"PDO( 'mysql:host=localhost;dbname=crud'"; 	// Host Name
 	
-	$username 			= 	'root'; 									// username of host
+	$username		= 	'root'; 	 				// username of host
 	
-	$password 			= 	''; 										// password of host
+	$password 		= 	''; 						// password of host
 	
-	$dbname 			= 	'crud'; 									//database name
+	$dbname			= 	'crud'; 				        //database name
 
 
 ```
