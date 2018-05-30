@@ -1,6 +1,6 @@
 # CRUD-PHP-MySQL-JQuery-AJAX-DATATABLE-BOOTSTRAP 
 
-### Operações Básicas de Criação de Leitura de Exclusão de Atualização usando JQuery DATATABLES AJAX com PHP MySQL PDO
+### Operações Básicas de Criação, Leitura, Exclusão, Atualização usando JQuery DATATABLES AJAX com PHP MySQL POO PDO
 
 ### :pushpin:  Recursos usados ​​
 * PHP
@@ -18,14 +18,15 @@ Banco de dados no arquivo **db.php**.
 ```php
 
 
-	$connection = "PDO( 'mysql:host=localhost;dbname=crud'"; 	// Host Name
+	$connection 		= 	"PDO( 'mysql:host=localhost;dbname=crud'"; 	// Host Name
 	
-	$user = 'root'; // username of host
+	$username 			= 	'root'; 									// username of host
 	
-	$password = ''; // password of host
+	$password 			= 	''; 										// password of host
 	
-	$dbname = ''; 	//database name
+	$dbname 			= 	'crud'; 									//database name
 
 
 ```
+
 
