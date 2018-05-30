@@ -1,5 +1,3 @@
-# CRUD-PHP-DATATABLE-00
-
 # CRUD-PHP-MySQL-JQuery-AJAX-DATATABLE-BOOTSTRAP 
 
 ### Operações Básicas de Criação, Leitura, Exclusão, Atualização usando JQuery DATATABLES AJAX com PHP MySQL POO PDO
